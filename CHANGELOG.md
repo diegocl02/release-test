@@ -1,5 +1,17 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/diegocl02/release-test/compare/v1.0.0...v1.0.1) (2021-04-07)
+
+
+### Features
+
+* Enable user login ([e789891](https://www.github.com/diegocl02/release-test/commit/e78989139707e711f9c60b33270225f87d32eb37))
+
+
+### Bug Fixes
+
+* Bug on home page ([a914ae1](https://www.github.com/diegocl02/release-test/commit/a914ae190d94464d57e7424bd9d280c1e0c46ceb))
+
 ## 1.0.0 (2021-04-07)
 
 
